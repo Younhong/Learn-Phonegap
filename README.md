@@ -1,3 +1,3 @@
 # Learn-Phonegap
 
-# Visit [here](build.phonegap.com) to build your code
+# Visit [here](https://build.phonegap.com) to build your code
